@@ -1,3 +1,3 @@
-package easetogram.image
+package com.temobard.easetogram.image
 
 class GrayscaleHistogram : ImageHistogram()

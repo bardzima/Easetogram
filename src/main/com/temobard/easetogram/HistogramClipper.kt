@@ -1,4 +1,4 @@
-package easetogram
+package com.temobard.easetogram
 
 import kotlin.math.max
 

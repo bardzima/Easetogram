@@ -1,7 +1,7 @@
-package easetogram.simple
+package com.temobard.easetogram.simple
 
-import easetogram.Histogram
-import easetogram.HistogramClipper
+import com.temobard.easetogram.Histogram
+import com.temobard.easetogram.HistogramClipper
 import java.lang.Integer.min
 
 class SimpleHistogramClipper(private val histogram: SimpleHistogram) : HistogramClipper(histogram) {

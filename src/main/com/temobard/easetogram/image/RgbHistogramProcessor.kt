@@ -1,4 +1,4 @@
-package easetogram.image
+package com.temobard.easetogram.image
 
 class RgbHistogramProcessor(
         override val pixelArray: ByteArray

@@ -1,6 +1,6 @@
-package easetogram.image
+package com.temobard.easetogram.image
 
-import easetogram.BaseHistogram
+import com.temobard.easetogram.BaseHistogram
 
 abstract class ImageHistogram : BaseHistogram(DEFAULT_COLOR_DEPTH) {
     companion object {

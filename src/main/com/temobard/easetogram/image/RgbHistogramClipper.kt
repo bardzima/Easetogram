@@ -1,6 +1,6 @@
-package easetogram.image
+package com.temobard.easetogram.image
 
-import easetogram.HistogramClipper
+import com.temobard.easetogram.HistogramClipper
 import java.lang.Integer.max
 
 class RgbHistogramClipper(private val histogram: RgbHistogram) : HistogramClipper(histogram) {

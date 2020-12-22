@@ -1,4 +1,4 @@
-package easetogram.image
+package com.temobard.easetogram.image
 
 class RgbHistogram : ImageHistogram() {
     val redArray = IntArray(DEFAULT_COLOR_DEPTH)

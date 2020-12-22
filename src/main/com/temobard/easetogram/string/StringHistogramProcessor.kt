@@ -1,6 +1,6 @@
-package easetogram.string
+package com.temobard.easetogram.string
 
-import easetogram.HistogramProcessor
+import com.temobard.easetogram.HistogramProcessor
 
 class StringHistogramProcessor(
         private val stringArray: ArrayList<String>

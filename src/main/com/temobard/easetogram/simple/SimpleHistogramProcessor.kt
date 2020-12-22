@@ -1,6 +1,6 @@
-package easetogram.simple
+package com.temobard.easetogram.simple
 
-import easetogram.HistogramProcessor
+import com.temobard.easetogram.HistogramProcessor
 
 class SimpleHistogramProcessor(
         private val dataArray: IntArray

@@ -1,6 +1,6 @@
-package easetogram.cluster
+package com.temobard.easetogram.cluster
 
-import easetogram.HistogramProcessor
+import com.temobard.easetogram.HistogramProcessor
 
 class ClusterHistogramProcessor(
         private val dataArray: IntArray,

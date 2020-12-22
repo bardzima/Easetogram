@@ -1,6 +1,6 @@
-package easetogram.image
+package com.temobard.easetogram.image
 
-import easetogram.HistogramProcessor
+import com.temobard.easetogram.HistogramProcessor
 
 abstract class ImageHistogramProcessor<T : ImageHistogram>(
         open val pixelArray: ByteArray

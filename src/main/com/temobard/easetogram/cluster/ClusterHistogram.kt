@@ -1,6 +1,6 @@
-package easetogram.cluster
+package com.temobard.easetogram.cluster
 
-import easetogram.BaseHistogram
+import com.temobard.easetogram.BaseHistogram
 
 class ClusterHistogram(capacity: Int) : BaseHistogram(capacity) {
     val clusters = IntArray(capacity)
